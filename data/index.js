@@ -99,17 +99,20 @@ export const PROJECT_DATA = [
   {
     title: "Award-Winning Work",
     text: "Business Strategy",
-    image: project1
+    image: project1,
+    project: "https://www.loom.com/embed/14159ba95c3a4aa0b6ba7d58c13e883e"
   },
   {
     title: "Award-Winning Work",
     text: "Business Strategy",
-    image: project2
+    image: project2,
+    project: "https://www.loom.com/embed/b7cf71780f54463e8a8b39bca11e6c61"
   },
   {
     title: "Award-Winning Work",
     text: "Business Strategy",
-    image: project3
+    image: project3,
+    project: "https://www.loom.com/embed/4301153fc36c4c8689fdee50bd651ca2"
   }
 ];
 
